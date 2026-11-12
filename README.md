@@ -2,6 +2,8 @@
 
 Este proyecto consiste en un Curriculum Vitae y portfolio web interactivo desarrollado con **React**, **Vite** y **CSS3**, personalizado con una interfaz temática inspirada en el sistema Heads-Up Display (HUD) y la estética visual de **Grand Theft Auto VI (GTA VI)**.
 
+<img width="1901" height="941" alt="image" src="https://github.com/user-attachments/assets/8b573d1a-67d2-45ca-8d98-16525f76ac9b" />
+
 ---
 
 ## 📋 Índice
