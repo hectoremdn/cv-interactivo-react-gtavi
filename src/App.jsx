@@ -17,7 +17,7 @@ function App() {
 
           <div className="header-texto">
             <h1>Héctor Reyes Medina</h1>
-            <h2>Intern Software Developer</h2>
+            <h2>Software Developer & UI/UX Designer</h2>
 
             <div className="contacto-info">
               <div className="contacto-fila">
