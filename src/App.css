@@ -16,15 +16,11 @@ body {
 
 .contenedor-principal {
   max-width: 1100px;
-  /* Limita el ancho máximo para dejar ver el fondo */
   width: 90%;
   margin: 40px auto;
-  /* Lo centra horizontalmente y le da espacio arriba/abajo */
   background-color: white;
   border-radius: 12px;
-  /* Opcional: suaviza las esquinas */
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-  /* Sombra para resaltar sobre el fondo */
   overflow: hidden;
 }
 
@@ -194,7 +190,6 @@ body {
   transform: scale(1.03);
   color: #ff007f;
   transform-origin: left;
-  /* Añadido para mantener la alineación al escalar */
 }
 
 .empresa {
